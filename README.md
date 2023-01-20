@@ -1,8 +1,8 @@
 # definexOrderApp
-#Dependency
+# Dependency
   - SpringBoot + MySQL + Hibernate
 
-#Homework Steps
+# Homework Steps
 
 -Listeleme işlemleri stream kullanılarak yapılmalı.
 
