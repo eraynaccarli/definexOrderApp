@@ -13,7 +13,7 @@
 
 -List all customers
 
-- Able to create new customers
+-Able to create new customers
 
 -List customers with the letter 'C' in them
 
