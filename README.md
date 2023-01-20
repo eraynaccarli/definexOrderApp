@@ -54,3 +54,12 @@
 
 - Haziran ayını faturalarını ortalaması 750 altı olan firmalarının hangi sektörde olduğunu listeleyen kodu yazın.
 
+
+# sample photo
+![addCustomer](https://user-images.githubusercontent.com/69572868/213644118-80ad7b0a-70e3-40b4-a952-cb7241207294.png)
+![listCustomers](https://user-images.githubusercontent.com/69572868/213644170-327d2573-7481-46db-a6c0-984597043843.png)
+![expensiiveOrder](https://user-images.githubusercontent.com/69572868/213644182-5e46ed63-297e-444f-97cf-20fb61e29ff3.png)
+![cheapOrder](https://user-images.githubusercontent.com/69572868/213644192-0016e67d-7118-4601-8713-8fd34eff334e.png)
+
+
+
